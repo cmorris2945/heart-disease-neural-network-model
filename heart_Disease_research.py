@@ -28,7 +28,7 @@ print('keras: {}'.format(keras.__version__))
 
 
 
-# this is the data I work with here:
+# this is the data I work with here. This is for training of the network. Other patients' data is very unique and protected.
 
 url = "http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data"
 
